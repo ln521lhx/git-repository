@@ -1,2 +1,3 @@
 # git-repository
-学习一些新技术,做一些总结，方便以后整理复习。
+一个简单的springboot demo，基于maven构建,项目下载下来之后，
+直接运行DemoApp，然后在浏览器输入:http://localhost:8080/demo/index 即可。
